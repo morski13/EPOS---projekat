@@ -1,0 +1,297 @@
+
+body{
+    background-color: #202A44;
+}
+
+
+#naslov{
+    
+    background-color: #ECE3CE;
+    color: #202A44;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50pt;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    padding: 50px;
+    border-top-style: double;
+    border-bottom-style: double;
+    border-width: 35px;
+    flex-grow: 3;
+    height: 80px;
+   
+}
+
+.gt3{
+   
+    color: #ECE3CE;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    border-radius: 20px;
+    border-color: #ECE3CE;
+    
+    
+}
+.naziv{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    color: #202A44;
+    background-color: #ECE3CE;
+    text-align: left;
+    border-top-style: double;
+    border-bottom-style: double;
+    border-width: 15px;
+    border-color: #202A44;
+    border-radius: 35px;
+    
+
+}
+
+.naziv2{
+    font-size: 22pt;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    color: #202A44;
+    background-color: #ECE3CE;
+    text-align: left;
+    border-top-style: double;
+    border-bottom-style: double;
+    border-width: 15px;
+    border-color: #202A44;
+    border-radius: 35px;
+}
+
+.naziv_modela{
+    color: #202A44;
+    background-color: #ECE3CE;
+    font-size: 25pt;
+    margin-top: 0%;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 0%;
+    padding-left: 20px;
+}
+.naziv_modela2{
+    color: #202A44;
+    background-color: #ECE3CE;
+    font-size: 22pt;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-left: 20px;
+}
+
+.godiste{
+    color: #202A44;
+    background-color: #ECE3CE;
+    font-size: 18pt;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-left: 20px;
+}
+
+.tekst{
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: large;
+}
+
+.logo{
+    height: 180px;
+    width: 1px;
+    flex-grow: 1;
+    background-color: #ECE3CE;
+    border-top-style: double;
+    border-bottom-style: double;
+    border-width: 35px;
+    color: #202A44;
+}
+
+._5h_gen{
+    width: 100%;
+    margin-bottom: 200px;
+}
+
+.opis{
+    margin-top: 80px;
+    margin-bottom: 120px;
+}
+.opis_996_1{
+    width: 450px;
+    height: auto;
+}
+
+table{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 50px;
+    background-color:#202A44;
+    color:#ECE3CE;
+    text-align: center;
+    width: 300px;
+    height: 400px;
+}
+.slideshow, .slideshow2, .slideshow3, .slideshow4{
+    width: 600px;
+    max-width: 600px;
+    position: relative;
+   margin-top: 50px;
+   margin-bottom: 80px;
+   
+}
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: #ff0000;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+
+  .prev:hover, .next:hover {
+    background-color: #111624;
+  }
+
+  .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  @keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }
+
+.slike_996_1, .slike_996_2, .slike_997_1, .slike_997_2,.slike_991_1,.slike_991_2, .slike_992{
+    display: none;
+    width: 200px;
+    height: 350px;
+}
+
+.plavi_996_1, .beli_996_1, .crveni_996_1, .zuti_996_1, .crni_996_2, .srebrni_996_2, .zuti_996_2, .plavi_996_2, .crni_997_1, .beli_997_1, .plavi_997_1, .narandzasti_997_1, .zeleni_997_2,.crveni_997_2,.plavi_997_2,.sivi_997_2, .crni_991_1,.plavi_991_1,.beli_991_1,.crveni_991_1,.crni_991_2,.plavi_991_2,.beli_991_1,.crveni_991_1, .crni_992, .plavi_992, .beli_992, .crveni_992{
+    width: 600px;
+    height: 400px;
+    border-radius: 30px;
+    border-style: outset;
+    border-color: #111624;
+}
+
+._6th_gen{
+    color: #ECE3CE;
+    font-family: 'Times New Roman', Times, serif;
+    
+    padding: 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+    border-radius: 20px;
+    border-color: #ECE3CE;
+    margin-bottom: 200px;
+}
+
+
+.slideshow2{
+    width: 600px;
+    max-width: 600px;
+    position: relative;
+    margin: auto;
+    margin-top: 45px;
+}
+
+
+.opis_997_1{
+    width: 450px;
+    height: auto;
+    margin-top: 90px;
+}
+
+.opis_991_1{
+    width: 450px;
+    height: auto;
+    margin-top: 110px;
+}
+
+.opis_992{
+    width: 450px;
+    height: auto;
+    margin-top: 120px;
+}
+.slideshow3{
+    width: 600px;
+    max-width: 600px;
+    position: relative;
+    margin: auto;
+    margin-top: 45px;
+}
+
+.slideshow4{
+    width: 600px;
+    max-width: 600px;
+    position: relative;
+    margin: auto;
+    margin-top: 45px;
+}
+
+.slideshow5{
+    width: 600px;
+    max-width: 600px;
+    position: relative;
+    margin: auto;
+    margin-top: 45px;
+}
+
+.slideshow6{
+    width: 600px;
+    max-width: 600px;
+    position: relative;
+    margin: auto;
+    margin-top: 45px;
+}
+
+.slideshow7{
+    width: 600px;
+    max-width: 600px;
+    position: relative;
+    margin: auto;
+    margin-top: 45px;
+}
+
+.pocetna{
+    text-align: center;
+    border-style: double;
+    border-width: 10px;
+    border-color: #202A44;
+    background-color: #ECE3CE;
+}
+.link{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #202A44;
+    font-size: medium;
+    position: relative;
+    font-weight: bold;
+}
+
+.link:hover{
+    color: #ff0000;
+    font-size: large;
+}
+
+
+

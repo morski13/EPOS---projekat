@@ -1,0 +1,53 @@
+.glavni{
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    /*border-radius: 50%;*/
+}
+
+
+.title{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.opis{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.opis_996_1{
+    flex-grow: 3;
+}
+
+.opis_997_1{
+    flex-grow: 3;
+}
+
+.opis_991_1{
+    flex-grow: 3;
+}
+
+.opis_992{
+    flex-grow: 3;
+
+}
+table{
+    flex-grow: 3;
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 425px){
+
+    .title{
+        gap: 0px;
+    }
+
+    .opis{
+        
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+}

@@ -1,0 +1,779 @@
+@media screen and (width: 425px){
+    
+    #naslov{
+    
+        background-color: #ECE3CE;
+        color: #202A44;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20pt;
+        margin-bottom: 20px;
+        margin-top: 0px;
+        padding: 20px;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 35px;
+        height: 50px;
+        width: 220px;
+       
+    }
+
+    .logo{
+        height: 90px;
+        width: 90px;
+        
+        background-color: #ECE3CE;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 35px;
+        color: #202A44;
+    }
+
+    .naziv{
+        padding: 10px;
+        
+        color: #202A44;
+        background-color: #ECE3CE;
+        text-align: center;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 15px;
+        border-color: #202A44;
+        border-radius: 35px;
+        width: 95%;
+    }
+
+    .naziv_modela{
+        color: #202A44;
+        background-color: #ECE3CE;
+        font-size: 18pt;
+        margin-top: 0%;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 0%;
+        padding-left: 5px;
+        margin: 0;
+    }
+
+    .godiste{
+        color: #202A44;
+        background-color: #ECE3CE;
+        font-size: 14pt;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 0%;
+        margin-bottom: 0%;
+        padding-left: 5px;
+    }
+
+    .naziv_modela2{
+        color: #202A44;
+        background-color: #ECE3CE;
+        font-size: 16pt;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 0%;
+        margin-bottom: 0%;
+        padding-left: 5px;
+    }
+
+    .naziv2{
+        font-size: 16pt;
+        padding: 15px;
+        margin: 0;
+        margin-top: 30px;
+        color: #202A44;
+        background-color: #ECE3CE;
+        text-align: center;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 15px;
+        border-color: #202A44;
+        border-radius: 35px;
+        
+    }
+
+    .gt3{
+   
+        color: #ECE3CE;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 3px;
+        margin-left: 0px;
+        margin-right: 1px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+        border-radius: 20px;
+        border-color: #ECE3CE;
+        height: fit-content;
+    }
+
+    .tekst{
+        font-size: 8pt;
+        margin: 0;
+        margin-top: 15px;
+    }
+
+    .opis{
+        height: fit-content;
+        margin-left: 10px;
+        margin-top: 5px;
+        width: 95%;
+        margin-bottom: 0%;
+    }
+
+    .opis_996_1{
+        width: fit-content;
+        height: auto;
+    }
+
+    .slideshow, .slideshow3, .slideshow5, .slideshow7{     
+        max-width: 180px;
+        position: relative;
+        margin: 0;
+        height: 150px;
+
+    }
+
+    .slideshow2, .slideshow4,.slideshow6{
+        max-width: 180px;
+        position: relative;
+        margin-top: 20px;
+        margin-bottom: 0;
+        align-content: center;
+        
+    }
+
+    .slike_996_1, .slike_996_2, .slike_997_1, .slike_997_2,.slike_991_1,.slike_991_2, .slike_992{
+        display: none;
+        width: 180px;
+        height: auto;
+    }
+
+    .plavi_996_1, .beli_996_1, .crveni_996_1, .zuti_996_1, .crni_996_2, .srebrni_996_2, .zuti_996_2, .plavi_996_2, .crni_997_1, .beli_997_1, .plavi_997_1, .narandzasti_997_1, .zeleni_997_2,.crveni_997_2,.plavi_997_2,.sivi_997_2, .crni_991_1,.plavi_991_1,.beli_991_1,.crveni_991_1,.crni_991_2,.plavi_991_2,.beli_991_1,.crveni_991_1, .crni_992, .plavi_992, .beli_992, .crveni_992{
+        width: 180px;
+        height: auto;
+        border-radius: 30px;
+        border-style: outset;
+        border-color: #111624;
+    }
+
+    table{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-top: 0;
+        background-color:#202A44;
+        color:#ECE3CE;
+        text-align: center;
+        width: 90px;
+        height: 100px;
+        font-size: 8pt;
+    }
+
+    .prev, .next {
+        cursor: pointer;
+        position: absolute;
+        
+        width: auto;
+        
+        padding: 8px;
+        color: #ff0000;
+        font-weight: bold;
+        font-size: 6pt;
+        transition: 0.6s ease;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+    }
+
+    .opis_997_1, .opis_992,.opis_991_1{
+        width: 450px;
+        height: auto;
+        margin-top: 0px;
+    }
+
+}
+
+@media screen and (width: 375px){
+    
+    #naslov{
+    
+        background-color: #ECE3CE;
+        color: #202A44;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20pt;
+        margin-bottom: 20px;
+        margin-top: 0px;
+        padding: 20px;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 35px;
+        height: 50px;
+        width: 220px;
+       
+    }
+
+    .logo{
+        height: 90px;
+        width: 90px;
+        
+        background-color: #ECE3CE;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 35px;
+        color: #202A44;
+    }
+
+    .naziv{
+        padding: 10px;
+        
+        color: #202A44;
+        background-color: #ECE3CE;
+        text-align: center;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 15px;
+        border-color: #202A44;
+        border-radius: 35px;
+        width: 95%;
+    }
+
+    .naziv_modela{
+        color: #202A44;
+        background-color: #ECE3CE;
+        font-size: 18pt;
+        margin-top: 0%;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 0%;
+        padding-left: 5px;
+        margin: 0;
+    }
+
+    .godiste{
+        color: #202A44;
+        background-color: #ECE3CE;
+        font-size: 14pt;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 0%;
+        margin-bottom: 0%;
+        padding-left: 5px;
+    }
+
+    .naziv_modela2{
+        color: #202A44;
+        background-color: #ECE3CE;
+        font-size: 16pt;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 0%;
+        margin-bottom: 0%;
+        padding-left: 5px;
+    }
+
+    .naziv2{
+        font-size: 16pt;
+        padding: 15px;
+        margin: 0;
+        margin-top: 30px;
+        color: #202A44;
+        background-color: #ECE3CE;
+        text-align: center;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 15px;
+        border-color: #202A44;
+        border-radius: 35px;
+        
+    }
+
+    .gt3{
+   
+        color: #ECE3CE;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 3px;
+        margin-left: 0px;
+        margin-right: 1px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+        border-radius: 20px;
+        border-color: #ECE3CE;
+        height: fit-content;
+    }
+
+    .tekst{
+        font-size: 8pt;
+        margin: 0;
+        margin-top: 15px;
+    }
+
+    .opis{
+        height: fit-content;
+        margin-left: 10px;
+        margin-top: 5px;
+        width: 95%;
+        margin-bottom: 0%;
+    }
+
+    .opis_996_1{
+        width: fit-content;
+        height: auto;
+    }
+
+    .slideshow, .slideshow3, .slideshow5, .slideshow7{     
+        max-width: 150px;
+        position: relative;
+        margin: 0;
+        margin-top: 20px;
+        height: 110px;
+        align-content: center;
+
+    }
+
+    .slideshow2, .slideshow4,.slideshow6{
+        max-width: 150px;
+        position: relative;
+        margin-top: 40px;
+        margin-bottom: 0;
+        align-content: center;
+        
+    }
+
+    .slike_996_1, .slike_996_2, .slike_997_1, .slike_997_2,.slike_991_1,.slike_991_2, .slike_992{
+        display: none;
+        width: 150px;
+        height: auto;
+    }
+
+    .plavi_996_1, .beli_996_1, .crveni_996_1, .zuti_996_1, .crni_996_2, .srebrni_996_2, .zuti_996_2, .plavi_996_2, .crni_997_1, .beli_997_1, .plavi_997_1, .narandzasti_997_1, .zeleni_997_2,.crveni_997_2,.plavi_997_2,.sivi_997_2, .crni_991_1,.plavi_991_1,.beli_991_1,.crveni_991_1,.crni_991_2,.plavi_991_2,.beli_991_1,.crveni_991_1, .crni_992, .plavi_992, .beli_992, .crveni_992{
+        width: 150px;
+        height: auto;
+        border-radius: 30px;
+        border-style: outset;
+        border-color: #111624;
+    }
+
+    table{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-top: 0;
+        background-color:#202A44;
+        color:#ECE3CE;
+        text-align: center;
+        width: 40px;
+        height: 60px;
+        font-size: 7pt;
+    }
+
+    .prev, .next {
+        cursor: pointer;
+        position: absolute;
+        
+        width: auto;
+        
+        padding: 8px;
+        color: #ff0000;
+        font-weight: bold;
+        font-size: 6pt;
+        transition: 0.6s ease;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+    }
+
+    .opis_997_1, .opis_992,.opis_991_1{
+        width: 450px;
+        height: auto;
+        margin-top: 0px;
+    }
+
+}
+
+
+@media screen and (min-width: 320px){
+    
+    #naslov{
+    
+        background-color: #ECE3CE;
+        color: #202A44;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 18pt;
+        margin-bottom: 20px;
+        margin-top: 0px;
+        padding: 20px;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 35px;
+        height: 50px;
+        width: 120px;
+       
+    }
+
+    .logo{
+        height: 90px;
+        width: 90px;
+        
+        background-color: #ECE3CE;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 35px;
+        color: #202A44;
+    }
+
+    .naziv{
+        padding: 10px;
+        
+        color: #202A44;
+        background-color: #ECE3CE;
+        text-align: center;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 15px;
+        border-color: #202A44;
+        border-radius: 35px;
+        width: 95%;
+    }
+
+    .naziv_modela{
+        color: #202A44;
+        background-color: #ECE3CE;
+        font-size: 14pt;
+        margin-top: 0%;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 0%;
+        padding-left: 5px;
+        margin: 0;
+    }
+
+    .godiste{
+        color: #202A44;
+        background-color: #ECE3CE;
+        font-size: 14pt;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 0%;
+        margin-bottom: 0%;
+        padding-left: 5px;
+    }
+
+    .naziv_modela2{
+        color: #202A44;
+        background-color: #ECE3CE;
+        font-size: 16pt;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 0%;
+        margin-bottom: 0%;
+        padding-left: 5px;
+    }
+
+    .naziv2{
+        font-size: 16pt;
+        padding: 15px;
+        margin: 0;
+        margin-top: 30px;
+        color: #202A44;
+        background-color: #ECE3CE;
+        text-align: center;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 15px;
+        border-color: #202A44;
+        border-radius: 35px;
+        
+    }
+
+    .gt3{
+   
+        color: #ECE3CE;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 3px;
+        margin-left: 0px;
+        margin-right: 1px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+        border-radius: 20px;
+        border-color: #ECE3CE;
+        height: fit-content;
+    }
+
+    .tekst{
+        font-size: 8pt;
+        margin: 0;
+        margin-top: 15px;
+    }
+
+    .opis{
+        height: fit-content;
+        margin-left: 10px;
+        margin-top: 5px;
+        width: 95%;
+        margin-bottom: 0%;
+    }
+
+    .opis_996_1{
+        width: fit-content;
+        height: auto;
+    }
+
+    .slideshow, .slideshow3, .slideshow5, .slideshow7{     
+        max-width: 120px;
+        position: relative;
+        margin: 0;
+        margin-top: 20px;
+        height: 110px;
+        align-content: center;
+
+    }
+
+    .slideshow2, .slideshow4,.slideshow6{
+        max-width: 120px;
+        position: relative;
+        margin-top: 40px;
+        margin-bottom: 0;
+        align-content: center;
+        
+    }
+
+    .slike_996_1, .slike_996_2, .slike_997_1, .slike_997_2,.slike_991_1,.slike_991_2, .slike_992{
+        display: none;
+        width: 120px;
+        height: auto;
+    }
+
+    .plavi_996_1, .beli_996_1, .crveni_996_1, .zuti_996_1, .crni_996_2, .srebrni_996_2, .zuti_996_2, .plavi_996_2, .crni_997_1, .beli_997_1, .plavi_997_1, .narandzasti_997_1, .zeleni_997_2,.crveni_997_2,.plavi_997_2,.sivi_997_2, .crni_991_1,.plavi_991_1,.beli_991_1,.crveni_991_1,.crni_991_2,.plavi_991_2,.beli_991_1,.crveni_991_1, .crni_992, .plavi_992, .beli_992, .crveni_992{
+        width: 120px;
+        height: auto;
+        border-radius: 30px;
+        border-style: outset;
+        border-color: #111624;
+    }
+
+    table{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-top: 0;
+        background-color:#202A44;
+        color:#ECE3CE;
+        text-align: center;
+        width: 40px;
+        height: 60px;
+        font-size: 6pt;
+    }
+
+    .prev, .next {
+        cursor: pointer;
+        position: absolute;
+        
+        width: auto;
+        
+        padding: 8px;
+        color: #ff0000;
+        font-weight: bold;
+        font-size: 6pt;
+        transition: 0.6s ease;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+    }
+
+    .opis_997_1, .opis_992,.opis_991_1{
+        width: 450px;
+        height: auto;
+        margin-top: 0px;
+    }
+
+}
+
+@media screen and (min-width: 768px){
+    
+    #naslov{
+    
+        background-color: #ECE3CE;
+        color: #202A44;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 22pt;
+        margin-bottom: 20px;
+        margin-top: 0px;
+        padding: 20px;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 35px;
+        height: 50px;
+        width: 320px;
+       
+    }
+
+    .logo{
+        height: 90px;
+        width: 90px;
+        
+        background-color: #ECE3CE;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 35px;
+        color: #202A44;
+    }
+
+    .naziv{
+        padding: 10px;
+        
+        color: #202A44;
+        background-color: #ECE3CE;
+        text-align: center;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 15px;
+        border-color: #202A44;
+        border-radius: 35px;
+        width: 95%;
+    }
+
+    .naziv_modela{
+        color: #202A44;
+        background-color: #ECE3CE;
+        font-size: 20pt;
+        margin-top: 0%;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 0%;
+        padding-left: 5px;
+        margin: 0;
+    }
+
+    .godiste{
+        color: #202A44;
+        background-color: #ECE3CE;
+        font-size: 16pt;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 0%;
+        margin-bottom: 0%;
+        padding-left: 5px;
+    }
+
+    .naziv_modela2{
+        color: #202A44;
+        background-color: #ECE3CE;
+        font-size: 18pt;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 0%;
+        margin-bottom: 0%;
+        padding-left: 5px;
+    }
+
+    .naziv2{
+        font-size: 16pt;
+        padding: 15px;
+        margin: 0;
+        margin-top: 30px;
+        color: #202A44;
+        background-color: #ECE3CE;
+        text-align: center;
+        border-top-style: double;
+        border-bottom-style: double;
+        border-width: 15px;
+        border-color: #202A44;
+        border-radius: 35px;
+        
+    }
+
+    .gt3{
+   
+        color: #ECE3CE;
+        font-family: 'Times New Roman', Times, serif;
+        padding: 3px;
+        margin-left: 0px;
+        margin-right: 1px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+        border-radius: 20px;
+        border-color: #ECE3CE;
+        height: fit-content;
+    }
+
+    .tekst{
+        font-size: 8pt;
+        margin: 0;
+        margin-top: 15px;
+    }
+
+    .opis{
+        height: fit-content;
+        margin-left: 10px;
+        margin-top: 5px;
+        width: 95%;
+        margin-bottom: 0%;
+        align-items: center;
+    }
+
+    .opis_996_1{
+        width: fit-content;
+        height: auto;
+    }
+
+    .slideshow, .slideshow3, .slideshow5, .slideshow7{     
+        max-width: 180px;
+        position: relative;
+        margin: 0;
+        
+        height: 160px;
+        align-content: center;
+
+    }
+
+    .slideshow2, .slideshow4,.slideshow6{
+        max-width: 180px;
+        position: relative;
+        margin-top: 40px;
+        margin-bottom: 0;
+        align-content: center;
+        
+    }
+
+    .slike_996_1, .slike_996_2, .slike_997_1, .slike_997_2,.slike_991_1,.slike_991_2, .slike_992{
+        display: none;
+        width: 180px;
+        height: auto;
+    }
+
+    .plavi_996_1, .beli_996_1, .crveni_996_1, .zuti_996_1, .crni_996_2, .srebrni_996_2, .zuti_996_2, .plavi_996_2, .crni_997_1, .beli_997_1, .plavi_997_1, .narandzasti_997_1, .zeleni_997_2,.crveni_997_2,.plavi_997_2,.sivi_997_2, .crni_991_1,.plavi_991_1,.beli_991_1,.crveni_991_1,.crni_991_2,.plavi_991_2,.beli_991_1,.crveni_991_1, .crni_992, .plavi_992, .beli_992, .crveni_992{
+        width: 180px;
+        height: auto;
+        border-radius: 30px;
+        border-style: outset;
+        border-color: #111624;
+    }
+
+    table{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        
+        background-color:#202A44;
+        color:#ECE3CE;
+        text-align: center;
+        width: 80px;
+        height: 120px;
+        font-size: 9pt;
+    }
+
+    .prev, .next {
+        cursor: pointer;
+        position: absolute;
+        
+        width: auto;
+        
+        padding: 8px;
+        color: #ff0000;
+        font-weight: bold;
+        font-size: 6pt;
+        transition: 0.6s ease;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+    }
+
+    .opis_997_1, .opis_992,.opis_991_1{
+        width: 450px;
+        height: auto;
+        margin-top: 0px;
+    }
+
+}
